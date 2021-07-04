@@ -24,6 +24,6 @@
 <br>
 
 <h1>💬 Hobbies:</h1> :musical_keyboard: Tocar Piano  :martial_arts_uniform: Jiu-Jitsu  👨‍💻 Programar  :biking_man: Andar Bike  :movie_camera: Netflix, e muito mais
-
-
-
+<br>
+<br>
+<img alt="snake-gif" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
