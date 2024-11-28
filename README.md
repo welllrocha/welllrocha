@@ -45,7 +45,7 @@
 
 ###
 <br>
-<h1>Estatísticas:</h1>
+<h1>🔥 Estatísticas:</h1>
 
 ###
 
@@ -57,8 +57,9 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/welllrocha/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=welllrocha.welllrocha&left_text=Visitantes"  />
 </div>
+
 
 ###
 <h1>💬 Hobbies:</h1> :musical_keyboard: Tocar Piano  :martial_arts_uniform: Jiu-Jitsu  ♖ Xadrez 👨‍💻 Programar  :biking_man: Andar Bike  :movie_camera: Netflix, e muito mais
