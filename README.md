@@ -22,7 +22,22 @@
 <img alt="img-java" height="50" width="70" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png"><img alt="img-python" height="50" width="70" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png"><img alt="img-msql" height="60" width="70" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" ><img alt="img-psql" height="50" width="70" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_logo_icon_146391.png"><img alt="img-git" height="50" width="70" src="https://cdn.icon-icons.com/icons2/648/PNG/512/github_social_media_logo_icon-icons.com_59735.png"><img alt="img-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img alt="img-NodeJs" height="40" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png"><img alt="img-html5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img alt="img-css3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" ><img alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <br>
 <br>
+<h1><p align="left">Estatísticas:</p></h1>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=welllrocha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=welllrocha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/welllrocha/count.svg?"  />
+</div>
+
+###
 <h1>💬 Hobbies:</h1> :musical_keyboard: Tocar Piano  :martial_arts_uniform: Jiu-Jitsu  ♖ Xadrez 👨‍💻 Programar  :biking_man: Andar Bike  :movie_camera: Netflix, e muito mais
 <br>
 <br>
